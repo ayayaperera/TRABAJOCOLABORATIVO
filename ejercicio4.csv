@@ -1,0 +1,8 @@
+	codigo_oficina	ciudad	nombre_cliente	nombre_contacto	pedidos	total
+0	TAL-ES	Talavera de la Reina	Gerudo Valley	Link	20	20000.00
+1	TAL-ES	Talavera de la Reina	Gerudo Valley	Link	5	1849.00
+2	TAL-ES	Talavera de la Reina	Tendo Garden	Akane	5	23794.00
+3	PAR-FR	Paris	Jardin de Flores	Javier	5	2081.00
+4	PAR-FR	Paris	Jardin de Flores	Javier	5	10000.00
+5	LON-UK	Londres	Jardines y Mansiones Cactus SL	Eva María	5	18846.00
+6	LON-UK	Londres	Jardinerías Matías SL	Matías	5	10972.00
