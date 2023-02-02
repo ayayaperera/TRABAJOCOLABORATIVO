@@ -1,0 +1,47 @@
+	codigo_oficina	nombre_cliente	codigo_cliente	codigo_pedido	cantidad	gama	total
+0	BOS-USA	Tendo Garden	5	3	120	Frutales	23794.00
+1	BOS-USA	Tendo Garden	5	23	110	Aromáticas	23794.00
+2	BOS-USA	Tendo Garden	5	2	67	Ornamentales	23794.00
+3	BOS-USA	Tendo Garden	5	23	50	Frutales	23794.00
+4	BOS-USA	Tendo Garden	5	2	50	Ornamentales	23794.00
+5	BOS-USA	Tendo Garden	5	4	42	Frutales	23794.00
+6	BOS-USA	Tendo Garden	5	4	42	Frutales	23794.00
+7	BOS-USA	Tendo Garden	5	1	40	Ornamentales	23794.00
+8	BOS-USA	Tendo Garden	5	4	38	Ornamentales	23794.00
+9	BOS-USA	Tendo Garden	5	3	32	Ornamentales	23794.00
+10	BOS-USA	Tendo Garden	5	23	30	Ornamentales	23794.00
+11	BOS-USA	Tendo Garden	5	3	30	Ornamentales	23794.00
+12	BOS-USA	Tendo Garden	5	1	25	Ornamentales	23794.00
+13	BOS-USA	Tendo Garden	5	3	24	Ornamentales	23794.00
+14	BOS-USA	Tendo Garden	5	1	23	Ornamentales	23794.00
+15	BOS-USA	Tendo Garden	5	4	21	Ornamentales	23794.00
+16	BOS-USA	Tendo Garden	5	2	20	Ornamentales	23794.00
+17	BOS-USA	Tendo Garden	5	4	17	Ornamentales	23794.00
+18	BOS-USA	Tendo Garden	5	3	15	Ornamentales	23794.00
+19	BOS-USA	Tendo Garden	5	1	15	Ornamentales	23794.00
+20	BCN-ES	Beragua	7	14	13	Frutales	2390.00
+21	BOS-USA	Tendo Garden	5	4	12	Frutales	23794.00
+22	BCN-ES	Beragua	7	13	12	Herramientas	2390.00
+23	BOS-USA	Tendo Garden	5	2	12	Ornamentales	23794.00
+24	BCN-ES	Beragua	7	16	12	Herramientas	2390.00
+25	BOS-USA	Tendo Garden	5	3	11	Ornamentales	23794.00
+26	BCN-ES	Beragua	7	16	10	Frutales	2390.00
+27	BOS-USA	Tendo Garden	5	1	10	Frutales	23794.00
+28	BCN-ES	Beragua	7	15	9	Ornamentales	2390.00
+29	BCN-ES	Beragua	7	14	8	Frutales	2390.00
+30	BOS-USA	Tendo Garden	5	2	7	Frutales	23794.00
+31	BCN-ES	Beragua	7	15	6	Ornamentales	2390.00
+32	BCN-ES	Beragua	7	13	5	Herramientas	2390.00
+33	BCN-ES	Beragua	7	13	5	Frutales	2390.00
+34	BCN-ES	Beragua	7	17	5	Herramientas	2390.00
+35	BOS-USA	Tendo Garden	5	2	5	Ornamentales	23794.00
+36	BCN-ES	Beragua	7	17	5	Herramientas	2390.00
+37	BCN-ES	Beragua	7	17	5	Ornamentales	2390.00
+38	BCN-ES	Beragua	7	17	5	Frutales	2390.00
+39	BCN-ES	Beragua	7	17	5	Frutales	2390.00
+40	BCN-ES	Beragua	7	15	4	Frutales	2390.00
+41	BOS-USA	Tendo Garden	5	4	4	Ornamentales	23794.00
+42	BOS-USA	Tendo Garden	5	23	4	Frutales	23794.00
+43	BOS-USA	Tendo Garden	5	4	3	Ornamentales	23794.00
+44	BOS-USA	Tendo Garden	5	2	3	Frutales	23794.00
+45	BCN-ES	Beragua	7	15	2	Ornamentales	2390.00
